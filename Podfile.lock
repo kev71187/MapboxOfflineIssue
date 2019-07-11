@@ -1,0 +1,20 @@
+PODS:
+  - Anchorage (4.3.1)
+  - Mapbox-iOS-SDK (5.1.0)
+
+DEPENDENCIES:
+  - Anchorage
+  - Mapbox-iOS-SDK (~> 5.1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Anchorage
+    - Mapbox-iOS-SDK
+
+SPEC CHECKSUMS:
+  Anchorage: a187da0bc9b07440637d42c8744b8c82a4490295
+  Mapbox-iOS-SDK: 4106f0f6808a0362233a703fb22369b3af3e9b8c
+
+PODFILE CHECKSUM: ff6a7b4c8db775749cb6b35291ac7397050a52ef
+
+COCOAPODS: 1.7.3
